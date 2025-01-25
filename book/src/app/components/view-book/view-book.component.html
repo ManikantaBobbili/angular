@@ -1,0 +1,6 @@
+
+
+<h2>View Book Details</h2>
+<input type="text" id="isbn" [(ngModel)]="isbn">
+<button type="submit" (click)="fetchBook()">Fetch Book</button>
+<p>{{ book | json}}</p>

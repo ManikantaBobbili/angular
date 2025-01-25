@@ -1,0 +1,31 @@
+{
+    "books": [
+      {
+        "isbn": "978-0061120084",
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genre": "Fiction",
+        "price": 9.99,
+        "pages": 336,
+        "id": "3564"
+      },
+      {
+        "isbn": "978-0140449334",
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "genre": "Romance",
+        "price": 5.99,
+        "pages": 480,
+        "id": "6e45"
+      },
+      {
+        "id": "5d59",
+        "isbn": "1233332223",
+        "title": "dd",
+        "author": "d",
+        "genre": "d",
+        "price": 22,
+        "pages": 3
+      }
+    ]
+}
